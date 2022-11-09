@@ -15,7 +15,7 @@ Introduction
 
 >Working of Software
 
->Sources used in Project
+
 ###content
 College Management System is a internet based Web Portal that aims at providing information to all levels of management system for the College. This system can be used as a information management system for the college.
 
